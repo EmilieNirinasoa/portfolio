@@ -15,7 +15,7 @@ export default function Acceuil() {
           download
           className="cv-button bg-green-500 text-white px-6 py-3 rounded-lg shadow-md hover:bg-green-600 focus:outline-none transition-all"
         >
-          CV 
+          Télécharger CV
         </a>
             </button>
         </div>
